@@ -4,7 +4,7 @@ A responsive weather app built with HTML, CSS and JavaScript
 that shows real-time weather data for any city in the world.
 
 ## 🔴 Live Demo
-[Click here to view live](#) <!-- We will add this link after Netlify deployment -->
+[Click here to view live](#) [Click here to view live](https://candid-donut-8cd3f2.netlify.app)
 
 ## 📸 Screenshots
 ![Weather App Screenshot](screenshot.png)
